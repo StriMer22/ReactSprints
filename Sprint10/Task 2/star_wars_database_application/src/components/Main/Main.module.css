@@ -1,0 +1,11 @@
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.name{
+    font-size: 40px;
+}
+.info li{
+    font-size: 20px;
+    list-style: none;
+}

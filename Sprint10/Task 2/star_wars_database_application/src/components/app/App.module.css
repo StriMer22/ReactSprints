@@ -1,0 +1,11 @@
+button {
+    margin-left: 5%;
+    width: 90%;
+    height: 50px;
+    font-size: 35px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 25px;
+    background: linear-gradient(309deg, rgba(2, 0, 36, 1) 0%, rgba(39, 98, 75, 1) 31%, rgba(0, 212, 255, 1) 100%);
+    color: chartreuse;
+}
